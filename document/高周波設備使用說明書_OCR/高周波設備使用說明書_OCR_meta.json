@@ -1,0 +1,217 @@
+{
+    "languages": [
+        "zh",
+        "en"
+    ],
+    "filetype": "pdf",
+    "pdf_toc": [],
+    "pages": 25,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 18,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "computed_toc": [
+        {
+            "title": "HISEN ",
+            "level": 1,
+            "page": 0
+        },
+        {
+            "title": "1-1 機器運轉時,請遵守下列事項來操作.",
+            "level": 3,
+            "page": 2
+        },
+        {
+            "title": "1-2 在保養,調整時,請注意下列事項.",
+            "level": 3,
+            "page": 2
+        },
+        {
+            "title": "1-3 事故者之救助.[預防二次災害]",
+            "level": 3,
+            "page": 3
+        },
+        {
+            "title": "2. 定期檢查",
+            "level": 1,
+            "page": 4
+        },
+        {
+            "title": "3. INVERTER 的原理",
+            "level": 3,
+            "page": 5
+        },
+        {
+            "title": "4. 本高頻電源特性",
+            "level": 4,
+            "page": 6
+        },
+        {
+            "title": ".,.",
+            "level": 4,
+            "page": 6
+        },
+        {
+            "title": "",
+            "level": 4,
+            "page": 6
+        },
+        {
+            "title": ".主電路結構",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "5-1 結構區塊圖",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "5-2 各區塊圖之功能",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "(1) 受電部",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "(2) 正變換部",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "(3) 逆變換部",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "(4) 匹配部",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "(5) 閘極電路,檢測電路",
+            "level": 4,
+            "page": 8
+        },
+        {
+            "title": "6. 異常表示內容",
+            "level": 4,
+            "page": 9
+        },
+        {
+            "title": "8. 操作順序",
+            "level": 1,
+            "page": 11
+        },
+        {
+            "title": "8-4 ",
+            "level": 4,
+            "page": 11
+        },
+        {
+            "title": "啓動高週",
+            "level": 4,
+            "page": 11
+        },
+        {
+            "title": "`'\\ ",
+            "level": 4,
+            "page": 11
+        },
+        {
+            "title": "9-1 主電源開啓時異常跳脫(ELCB).",
+            "level": 3,
+            "page": 12
+        },
+        {
+            "title": "10 -1 檢查方法",
+            "level": 4,
+            "page": 20
+        },
+        {
+            "title": "10 - 2 正變換 S.C.R THY 1~6 的電阻值檢査",
+            "level": 4,
+            "page": 20
+        },
+        {
+            "title": "10 - 3 二極體電阻值檢査",
+            "level": 4,
+            "page": 20
+        },
+        {
+            "title": "(1) 直流電路",
+            "level": 4,
+            "page": 21
+        },
+        {
+            "title": "10 - 5 檢査正變換閘極波形",
+            "level": 4,
+            "page": 21
+        },
+        {
+            "title": "10 - 6 檢査逆變換部閘極波形.",
+            "level": 4,
+            "page": 21
+        },
+        {
+            "title": "11. 半導體的更換方法",
+            "level": 4,
+            "page": 23
+        },
+        {
+            "title": "11- 2 ",
+            "level": 4,
+            "page": 23
+        },
+        {
+            "title": "正變換 S.C.R.的更換方法",
+            "level": 4,
+            "page": 23
+        },
+        {
+            "title": "11- 3 ",
+            "level": 4,
+            "page": 23
+        },
+        {
+            "title": "逆變換晶體模組之更換方法",
+            "level": 4,
+            "page": 23
+        },
+        {
+            "title": "(2) 安裝",
+            "level": 4,
+            "page": 24
+        },
+        {
+            "title": "12. 基板[PCB] 的更換方法",
+            "level": 3,
+            "page": 24
+        },
+        {
+            "title": "12 -.1 關於拆裝基板.",
+            "level": 4,
+            "page": 24
+        },
+        {
+            "title": "13. 負載匹配調整",
+            "level": 3,
+            "page": 24
+        }
+    ]
+}
